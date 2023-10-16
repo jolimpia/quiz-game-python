@@ -1,4 +1,5 @@
 # quiz-game-python
+A basic quiz game created using Python
 
 ## Getting Started
 
